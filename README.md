@@ -23,6 +23,7 @@ Whether blueprinting workflows inside national public healthcare systems at the 
 ## 🏗️ Architectural & Engineering Domain Expertise
 
 ### ☁️ Cloud, Orchestration & GitOps
+https://github.com/productdevbook/nitroping/pull/16
 ![Terraform](https://img.shields.io/badge/terraform-%235C4EE5.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
